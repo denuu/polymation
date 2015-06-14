@@ -1,0 +1,52 @@
+body{
+	background-repeat: no-repeat;
+	background-position: center;
+}
+svg{
+	position: absolute;
+	padding: 0;
+}
+#triangle_container{
+	position: absolute;
+	height:480px;
+	width:450px;
+	left: 0;
+	right: 0;
+	margin: auto;
+	top:17%;
+}
+#t1 {
+	fill:#A43130;
+	stroke:none;
+	stroke-width:1;
+}
+#t2 {
+	fill:#972B2B;
+	stroke:none;
+	stroke-width:1;
+}
+#t3 {
+	fill:#9D2E2D;
+	stroke:none;
+	stroke-width:1;
+}
+#t4 {
+	fill:#A43434;
+	stroke:none;
+	stroke-width:1;
+}
+#t5 {
+	fill:#BA3938;
+	stroke:none;
+	stroke-width:1;
+}
+#t6 {
+	fill:#B03635;
+	stroke:none;
+	stroke-width:1;
+}
+#t7 {
+	fill:#BC3B39;
+	stroke:none;
+	stroke-width:1;
+}
