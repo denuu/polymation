@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#viewport{
+	position: absolute;
+	left: 0;
+	right: 0;
+	position: absolute;
+	border:1px solid black;
+	height:610px;
+	width:320px;
+	left: 0;
+	right: 0;
+	margin: auto;
+	top:4%;
+}
+svg{
+	position: absolute;
+	height: 1024;
+	width: 1024;
+}
+#l1{
+	fill: #94B967;
+}
+#l2{
+	fill: #86A95E;
+}
+#l3{
+	fill: #81A259;
+}
+#l4{
+	fill: #789A55;
+}
+#l5{
+	fill: #A4CC72;
+}
+#l6{
+	fill: #A4CC72;
+}
+#l7{
+	fill: #A4CC72;
+}
